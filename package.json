@@ -1,0 +1,29 @@
+{
+  "name": "nomocas-webutils",
+  "version": "0.0.1",
+  "description": "collection of small and atomic web oriented js utilities (breakpoint, scrollspy, url-parser, ...)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nomocas/nomocas-webutils.git"
+  },
+  "keywords": [
+    "web-utils",
+    "url-parser",
+    "querystring-parser",
+    "uploader",
+    "breakpoint",
+    "image-previewer",
+    "scrollspy",
+    "user-agent"
+  ],
+  "author": "Gilles Coomans",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nomocas/nomocas-webutils/issues"
+  },
+  "homepage": "https://github.com/nomocas/nomocas-webutils#readme"
+}
