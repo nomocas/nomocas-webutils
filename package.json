@@ -1,6 +1,6 @@
 {
   "name": "nomocas-webutils",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "collection of small and atomic web oriented js utilities (breakpoint, scrollspy, url-parser, ...)",
   "main": "index.js",
   "scripts": {
